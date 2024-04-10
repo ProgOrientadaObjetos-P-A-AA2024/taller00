@@ -9,7 +9,7 @@ package paquete3;
  *
  * @author reroes
  */
-public class Valor {
+public class Informacion {
     
     public static int obtenerHabitantes(){
         return Dato.obtenerNumeroHombres() + Dato.obtenerNumeroMujeres();
